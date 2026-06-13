@@ -10,7 +10,3 @@ This repository contains a dashboard image showing bike purchase analytics (filt
 
 ![Bike purchase Dashboard](images/bike_purchase_dashboard.png)
 
-## Notes
-
-- Save the attached dashboard image to `images/bike_purchase_dashboard.png` so it displays inline above.
-- If you'd like, I can add the actual image file into the repository for you — tell me to proceed and I'll save it at the path above.
