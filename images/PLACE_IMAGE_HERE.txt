@@ -1,0 +1,5 @@
+Place the dashboard image file here with the filename "bike_purchase_dashboard.png".
+
+Path: images/bike_purchase_dashboard.png
+
+If you want me to add the actual image file from the conversation attachments, reply: "Please add the image file" and I'll save it here.
