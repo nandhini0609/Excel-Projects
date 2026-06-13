@@ -6,7 +6,7 @@ This repository contains a dashboard image showing bike purchase analytics (filt
 
 - The dashboard shows average income by gender and purchase status, bike purchasers by age, and commute distance trends for bike buyers.
 
-## Image (place the attached image here)
+## Image
 
 ![Bike purchase Dashboard](images/bike_purchase_dashboard.png)
 
